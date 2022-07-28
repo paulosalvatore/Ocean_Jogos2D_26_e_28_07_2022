@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class Jogador : MonoBehaviour
 {
+    // Acessar o Rigidbody na Unity
+    public Rigidbody2D rb;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -22,5 +25,8 @@ public class Jogador : MonoBehaviour
     void Pular()
     {
         print("Pular!");
+
+        // Adicionamos uma Força ao Rigidbody
+        rb.AddForce(130f * Vector2.up);
     }
 }
