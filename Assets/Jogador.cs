@@ -24,9 +24,15 @@ public class Jogador : MonoBehaviour
 
     void Pular()
     {
-        print("Pular!");
+        // print("Pular!");
 
         // Adicionamos uma Força ao Rigidbody
-        rb.AddForce(130f * Vector2.up);
+        rb.AddForce(180f * Vector2.up);
+    }
+
+    void OnCollisionEnter2D(Collision2D other) {
+        if (other.gameObject.CompareTag("Inimigo")) {
+            UnityEngine.SceneManagement.SceneManager.LoadScene(0);
+        }
     }
 }

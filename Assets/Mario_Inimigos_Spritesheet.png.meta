@@ -1,0 +1,3896 @@
+fileFormatVersion: 2
+guid: 4abd23b40d0b8ab4ebec01fc6d175a48
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 552
+        width: 140
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1414f0c03ad48274dabc91e75960949e
+      internalID: -1305808150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 677
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5246f1f57a773db47acfaa73b0d0269c
+      internalID: 1714783774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 674
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9424bea98d959ed4ca9bc90ddaed1f38
+      internalID: 1159579596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 674
+        width: 17
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17daae75cda8fa346a9496f604c799d2
+      internalID: 1247013647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 684
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff85cc7d809bb34aaa3660cfe25df0f
+      internalID: -198806975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 684
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638173b6e7447f44d871de12e6d55dbc
+      internalID: 1323215623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 684
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa496994be0f0554eb62b31a8219974f
+      internalID: -1507858058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 682
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b6c245e6742324b8ea0e355ebaec50
+      internalID: -468752634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 682
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e089118eea160d845b9c8b0d301335cc
+      internalID: 1076089770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 682
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03ba4457a14d3f43b204542b72177b8
+      internalID: 676632576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 681
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503c5879bb7415b429b4eb63d5254a12
+      internalID: -1615073411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 683
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372fca223bcdc9e4386f9eda08ccc4e3
+      internalID: 1715397163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 632
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656bbc59290bc2f4a97637cd31ffe384
+      internalID: 2024302621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 632
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2aba00a64b03a4089f64567ed3ecbc
+      internalID: -79816310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 632
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99080e6aba42dec47ba1f7e6284e7b8e
+      internalID: -129736401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 632
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1776d5ea3061f44b92f1e8d19d6ad7
+      internalID: -639784968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 641
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d713f534e558b499c900768c8391aa
+      internalID: -1419348292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 641
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d274fa97f94ed44ae73851a589707a
+      internalID: -283063808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 641
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8021b3614cbf849bab7a9c340628d4
+      internalID: 535062691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 645
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e93b088c0eaf749a10ad28418c9584
+      internalID: 722813772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 645
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6adb657985e2241acbd5809d5da702
+      internalID: 1595657489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 643
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b38c29ce85ea3a488a1545f29503255
+      internalID: -2060763967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 641
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31231aa680ebd84c870e685fdd9b7e7
+      internalID: 831739334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 642
+        width: 26
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048a90af959e16341898dc1acb33c963
+      internalID: 2041195976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 604
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4fd3b5c794bd64da591e7920ddfe87
+      internalID: 1738409025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 604
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e65afa4aee1954a9213a800db70307
+      internalID: 1512101679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 604
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fe41ca621a016459433e93f86ab373
+      internalID: -42911638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 602
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298da3f7fa7da69459e89199a16462b9
+      internalID: -1759009506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 602
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4377d2b245203f4ca70c35ec51a7e08
+      internalID: 1034380384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 602
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6457f12753404e4f9dacee1cea7dc14
+      internalID: -697388986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 607
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a3d039cd8646042a64811b3064b221
+      internalID: -177377573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 607
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cd77762b029084babcee619010a296
+      internalID: -896723979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 566
+        width: 40
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66793d07cdf40745a274177f58a0ca9
+      internalID: -52110942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 560
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e27d2d0dbfbde45b71ba059cdc37f1
+      internalID: 1096235526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 560
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02f4ca32cc335a4a98f240460a58d99
+      internalID: 1581631328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 566
+        width: 40
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bb15f724533a0459c9090e90729b33
+      internalID: 487449697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 561
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ee8a6e5387b3547822b23ba553d4bd
+      internalID: -2021362236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 569
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf87be4c9aeb9c488d0a6b8981f8274
+      internalID: -831109336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 568
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefd035f0bf2508488835cefdbbaacc2
+      internalID: 1822634887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 574
+        width: 24
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dc0eae13596324ea8298da3509dc45
+      internalID: 600825400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 572
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804c215e74104954b981873af44ab57e
+      internalID: -1264973993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 564
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d322f40fe61f8047b51e1046700d5a9
+      internalID: -1937596889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 515
+        width: 30
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9ea914238bf614a8161296d2e4555a
+      internalID: 462629328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 535
+        width: 24
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9714f49a20e4c47a0a6dc9008ffbf1
+      internalID: -1594556635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 546
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9842c6b1cf8935a4b99cc0016b2f8af8
+      internalID: 259451040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 537
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b78de91fe0d882439c92d44d9332046
+      internalID: -231153530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 486
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ce6f41c2d987f45b85bb3522c477a8
+      internalID: 410436767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 486
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d17debf685cad14598932c60080a66a
+      internalID: 2130290965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 491
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c310d599d882fbb4397e838b23c9fdb2
+      internalID: -1525257676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 491
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c25456f091b1d4a9dcf9de4cb71eb1
+      internalID: -535565857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 486
+        width: 30
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb3905190a684c4db750d51b6b2831d
+      internalID: -1049220725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 488
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1c69382c965bd4a9505adee76d5a4d
+      internalID: 41868139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 488
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa402aef59b0354b97dc975da8f55f5
+      internalID: -1044713222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 486
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fe019a3b101e744a89dc715c7d1e5f
+      internalID: -818767521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 486
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3b4164e05bfaf419d4b3c6cc8fcd9b
+      internalID: -493376092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 486
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65ca952cd5ae314fa1e5e6c74714ea4
+      internalID: 1887963780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 487
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87066478c7d19e549b8d85c7622c4a19
+      internalID: -1775001489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 485
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afa4599fad01dd4695e3bd2a2a95558
+      internalID: -372624276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 485
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d0810054b2c2a479e4aa1ae7188290
+      internalID: 1355676171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 486
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d0dcf9d1c1e4f448525855439901e3
+      internalID: 14987120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 486
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcac241311e31c74981579e44c89ab2b
+      internalID: -1947132263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 486
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c0f234860868347bb248db0b94520e
+      internalID: 1955069706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 446
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2910967acef737543975c12715886cc0
+      internalID: 1756704872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 446
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac10aa92bd04884fb4def7abf06878f
+      internalID: 436046246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 446
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c592b6737ac0c47baab98644107842
+      internalID: -346588644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 416
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe39300efd7193347a2ac1d6e715b359
+      internalID: -1869057775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 416
+        width: 67
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04d47cec85df364fb9acf0532603ad5
+      internalID: -1383799909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 413
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81608900d633835428cb9c5ceeaa96ea
+      internalID: 1895553369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 415
+        width: 23
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00df646995cf8734fb11baba65cdea68
+      internalID: 653889060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 413
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d818f0fb6df3d49a61d8ce5080dfda
+      internalID: 1700199109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 414
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a861185146f64149b8fcc72202ed4e5
+      internalID: -717629876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 415
+        width: 28
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb22a7619004b841a3a824786a8ba88
+      internalID: 1022821740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 413
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4c234c5dcb5cb47bd3102c42bdfee2
+      internalID: 531242245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 417
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacf9014f87a8364ca72e3db8119b1cc
+      internalID: -550692574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 416
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545caa8d1efa3ce429ed02e28fd3b150
+      internalID: 1369661106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 415
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f586e84291d134da430ed11ec06978
+      internalID: 1150795357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 415
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa42fc6d2e875b4b9cdfa56bd8948a5
+      internalID: 1914463822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 413
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec363088e5f9aea489a67f8af318f403
+      internalID: 91878767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 390
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d83c38ed0729b40aac3cf27ceb5d5b
+      internalID: -159674655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 390
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76761629c713829439f192328ea60b63
+      internalID: -1237683584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 385
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de381f75654a86e4994d8a71e2f3f043
+      internalID: -79461652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 376
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3ffccde081a5a43926afa1e7a1e6c0
+      internalID: -1558319541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 381
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36140555f04150545b31a14f8bc0bfd8
+      internalID: -1268359295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 373
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb43f2410562eec4f863428ec6879b4b
+      internalID: 1537701264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 352
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f1e9ec9d5c54a4ba96ce6e53d7fe38
+      internalID: -76261266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 358
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ed63e7a58307e4a8c261db5d88c6e1
+      internalID: -607789673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 357
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8a360d585b8e341989fd4879b406be
+      internalID: 177592457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 352
+        width: 22
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c945bf924e69414dba3aa02d339c7b8
+      internalID: -558684080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 371
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446ca13acd459ac4ebaa1031a505cfd2
+      internalID: 886771940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 351
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3aa7495d419b34abf52dcd08799164
+      internalID: 281716812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 351
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8438c4fa46a19674896aa2f8f5f910c0
+      internalID: 2143062699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 351
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7b143bb1d17264ab7bc6074da107ef
+      internalID: -242585618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 351
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3b31fc9283bc0448000fcb2c09d4dc
+      internalID: -164242444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 351
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f898feb0341bded44a8f0e3584407dfb
+      internalID: -2030539620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 351
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2503120b3a6dd114199ab340a5a3cc12
+      internalID: -1196651570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 354
+        width: 32
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50e2beff9a25ef4589e8ecd715e450a
+      internalID: 139524984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 353
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2c016b51a57ce4198464a77c46f47c
+      internalID: -1013319572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 352
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b1b3f47e6be1e46b71f502017203eb
+      internalID: -1416884424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 353
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb8a24d92da3bd43b65e52a7d2a00ee
+      internalID: -1203678723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 354
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66bf3a3b9f563d4e873fbf6fc7643ba
+      internalID: -1869998319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 334
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ba9f6f1e25d8c42b0dac9928d70242
+      internalID: 883279978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 334
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb745fc6c6a2e64c97e3815a933939b
+      internalID: -1140064032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 333
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc6b3984b0ce9247b4e3ba12228f5fd
+      internalID: -1261548206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 335
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e75a32639ee72142bccd6433c2cfb44
+      internalID: -196796564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 329
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0174ca88f6760fe428bc0e249e9c2a05
+      internalID: 467125396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 329
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333450d4262a53e409118b77c07358ce
+      internalID: 530863073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 329
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae890ac7dda4084eb7f05bddd422067
+      internalID: -1103600507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 329
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70a10e05bcb450478823d562827ca12
+      internalID: -1519255122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 329
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede0af8d4f541de49bb85087295e7954
+      internalID: 510081029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 317
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37ec4daf1d71044a84f2249647f21c0
+      internalID: 462437663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 317
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c54e86661b8cb47a19ff3e3c458f34
+      internalID: -1263115374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 317
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f62cecc7a213346918f9bd1cf3598b
+      internalID: -328588470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 309
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d61c1b1b7324148b39e3aef66dc324
+      internalID: -1028193210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 309
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150b6d174929cf1479ce574fa9a031ac
+      internalID: -1709172384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 309
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2f35072eb882347be0f965b6fb5f82
+      internalID: 1240701992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 263
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49b5b2dbf2d26c419c9a7017c267da2
+      internalID: -1539764577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 262
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f943797d5f5b34a974a6c33dcd3a0c
+      internalID: 945298081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 264
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0681fe75b068a34aa6d7b2b9df74f47
+      internalID: -1336742115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 263
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33838a4e417158b4b92ada84b84b2e27
+      internalID: -1066692729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 266
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc6dcee13afb2f4496a46dba9567f65
+      internalID: -305053097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 264
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b754db7e25b5e4abe67067c7685a25
+      internalID: -1557925311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 262
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce5ed5948cfeb44c8bb5b36d505cb32
+      internalID: -1855084744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 264
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd0cb4c82990cc4caa4470c6f5a4113
+      internalID: 831129291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 264
+        width: 22
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3805cfe0d9d191445bb040f606f85f1a
+      internalID: -2021778693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 262
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35da040378d38ba49b071b17002d309d
+      internalID: 75476917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 262
+        width: 32
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a922ffedd37b5c4ba1ba456e255bc2e
+      internalID: -1418990302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 264
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9ccbcb04786f84dbb1e85fe50e2fa6
+      internalID: -380393335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 262
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848a250890ae3ca468f93b6b83f4c337
+      internalID: 274072727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 262
+        width: 32
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dacef14541ed6e4ca50bb4b77e2de4c
+      internalID: 343660084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 262
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563e99e060bc4244c8f342f2f276aadc
+      internalID: 2129612452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 263
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1013e4987265ee4ca5681614bc1133e
+      internalID: 2047620121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 262
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100c129eb28daae4a8fa49086194b601
+      internalID: 1563721602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 172
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69a7997c413caf42b7d9bcbe480866d
+      internalID: -367332902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 172
+        width: 39
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57a29f12f11753458970808372755c1
+      internalID: 961055215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 111
+        width: 48
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a465a630019b00d46978da0052b7bdec
+      internalID: 459713833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 201
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e325cd265aad69047882c94dde2e9e2f
+      internalID: 554118605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 199
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b87ce2db8815a498108843ea8e51e5
+      internalID: 1547201359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 200
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6aeea46d5627241a2ae7b0e150fdaf
+      internalID: 1151274372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 199
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0323bea6d6c8a04bab40f21cc1aaeaa
+      internalID: -1547156034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 200
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c39b4621ded33469ab96a1df9ea56a
+      internalID: 1250729855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 175
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384e0ebc2180d1445820e787c1c452f5
+      internalID: -1508669896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 175
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1691200f8ba407d4c8a1f01167378fc6
+      internalID: -2027348785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 175
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486a841859e69d240bdb8f0afef3d4f0
+      internalID: -1171649898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 172
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a193c6f53c5da746af9b8809e1bbe68
+      internalID: -1592305387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 115
+        width: 18
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef30201a4085044c834e39dd17103c7
+      internalID: -1786080874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 115
+        width: 18
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cadb557bd25c04ca5576b0add34651
+      internalID: -2126717532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 151
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1b278554bf9254986b1d60bf970895
+      internalID: -1328569230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 130
+        width: 48
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6c2f34b9e5ab14db33c720c404ad50
+      internalID: 1953553303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 129
+        width: 48
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942c3ea779567ac4e83fcfa7f110b89a
+      internalID: -1310175173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 130
+        width: 47
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f3cee62a6a6064fad20975526e21e5
+      internalID: 1885271435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 130
+        width: 47
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9220166337e972f40be62b9acabd0618
+      internalID: -668217302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 123
+        width: 17
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1670f622207d24983c9f118307adbe
+      internalID: -2071958724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 123
+        width: 18
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f08ea8c7bed99b498b30839e229a462
+      internalID: 2080817185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 119
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ddeb784478a074683cffef5b24d354
+      internalID: -383103421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 113
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58719f4bdbada094caea428c5441b130
+      internalID: -1867083867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 111
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e3bd2788d7c7d4c80d9a0ab943b52a
+      internalID: 552889197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 94
+        width: 48
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c18a932a59a0834588de74a56075753
+      internalID: -276803789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 93
+        width: 48
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f678e27fee4a69f488f52d0adc3b3c41
+      internalID: -632813920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 94
+        width: 47
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c09a684ddd504046881345cec87986e
+      internalID: -1629428720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 94
+        width: 47
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dea98074339a04cb3824913f6c6c02
+      internalID: -12072155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 13
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad50788a6156fd4f8f83172e073e71b
+      internalID: 305198090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 61
+        width: 40
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f9632126991e549afc7d3dfa884ef4
+      internalID: 1260165557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 60
+        width: 37
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7788c369043827f4a831ed76640a9b0f
+      internalID: -1928235705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 61
+        width: 33
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677688d88b9b81f4d909b8f8f5167dc6
+      internalID: 1090007080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 30
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b415bf2f0ea5d24d93a38750d83de62
+      internalID: 337081392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 30
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f2c10ef37efdf478898b4963aa0692
+      internalID: 955482045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 21
+        width: 32
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1859343eea36c14ca036bd80e86fc7e
+      internalID: -555768005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 21
+        width: 32
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9121b66c20ff9eb4799e30fffc2f003a
+      internalID: -1720268205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 21
+        width: 32
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798b15446152f9747a423f92275ef073
+      internalID: -1498014636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 21
+        width: 32
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04599e90ea454e34a844b9851b9ae888
+      internalID: -1862636707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Inimigos_Spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 21
+        width: 32
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a6f4d09a490274ba55d00aa7927fcb
+      internalID: 527945360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mario_Inimigos_Spritesheet_141: -2027348785
+      Mario_Inimigos_Spritesheet_13: -79816310
+      Mario_Inimigos_Spritesheet_152: 2080817185
+      Mario_Inimigos_Spritesheet_91: -242585618
+      Mario_Inimigos_Spritesheet_140: -1508669896
+      Mario_Inimigos_Spritesheet_92: -164242444
+      Mario_Inimigos_Spritesheet_115: -1539764577
+      Mario_Inimigos_Spritesheet_59: 14987120
+      Mario_Inimigos_Spritesheet_104: 467125396
+      Mario_Inimigos_Spritesheet_30: -177377573
+      Mario_Inimigos_Spritesheet_26: -42911638
+      Mario_Inimigos_Spritesheet_40: -1264973993
+      Mario_Inimigos_Spritesheet_155: 552889197
+      Mario_Inimigos_Spritesheet_60: -1947132263
+      Mario_Inimigos_Spritesheet_96: -1013319572
+      Mario_Inimigos_Spritesheet_149: 1885271435
+      Mario_Inimigos_Spritesheet_139: 1250729855
+      Mario_Inimigos_Spritesheet_68: 653889060
+      Mario_Inimigos_Spritesheet_31: -896723979
+      Mario_Inimigos_Spritesheet_142: -1171649898
+      Mario_Inimigos_Spritesheet_0: -1305808150
+      Mario_Inimigos_Spritesheet_145: -2126717532
+      Mario_Inimigos_Spritesheet_62: 1756704872
+      Mario_Inimigos_Spritesheet_44: 259451040
+      Mario_Inimigos_Spritesheet_86: 177592457
+      Mario_Inimigos_Spritesheet_169: -1862636707
+      Mario_Inimigos_Spritesheet_143: -1592305387
+      Mario_Inimigos_Spritesheet_161: 1260165557
+      Mario_Inimigos_Spritesheet_73: -550692574
+      Mario_Inimigos_Spritesheet_77: 91878767
+      Mario_Inimigos_Spritesheet_160: 305198090
+      Mario_Inimigos_Spritesheet_131: 1563721602
+      Mario_Inimigos_Spritesheet_49: -535565857
+      Mario_Inimigos_Spritesheet_107: -1519255122
+      Mario_Inimigos_Spritesheet_83: 1537701264
+      Mario_Inimigos_Spritesheet_74: 1369661106
+      Mario_Inimigos_Spritesheet_48: -1525257676
+      Mario_Inimigos_Spritesheet_22: 831739334
+      Mario_Inimigos_Spritesheet_99: -1869998319
+      Mario_Inimigos_Spritesheet_16: -1419348292
+      Mario_Inimigos_Spritesheet_32: -52110942
+      Mario_Inimigos_Spritesheet_78: -159674655
+      Mario_Inimigos_Spritesheet_55: 1887963780
+      Mario_Inimigos_Spritesheet_47: 2130290965
+      Mario_Inimigos_Spritesheet_100: 883279978
+      Mario_Inimigos_Spritesheet_134: 459713833
+      Mario_Inimigos_Spritesheet_120: -1557925311
+      Mario_Inimigos_Spritesheet_116: 945298081
+      Mario_Inimigos_Spritesheet_110: -1263115374
+      Mario_Inimigos_Spritesheet_52: -1044713222
+      Mario_Inimigos_Spritesheet_39: 600825400
+      Mario_Inimigos_Spritesheet_42: 462629328
+      Mario_Inimigos_Spritesheet_79: -1237683584
+      Mario_Inimigos_Spritesheet_84: -76261266
+      Mario_Inimigos_Spritesheet_46: 410436767
+      Mario_Inimigos_Spritesheet_6: -1507858058
+      Mario_Inimigos_Spritesheet_25: 1512101679
+      Mario_Inimigos_Spritesheet_168: -1498014636
+      Mario_Inimigos_Spritesheet_82: -1268359295
+      Mario_Inimigos_Spritesheet_10: -1615073411
+      Mario_Inimigos_Spritesheet_45: -231153530
+      Fantasma_1: -1869057775
+      Mario_Inimigos_Spritesheet_56: -1775001489
+      Mario_Inimigos_Spritesheet_2: 1159579596
+      Mario_Inimigos_Spritesheet_5: 1323215623
+      Mario_Inimigos_Spritesheet_103: -196796564
+      Mario_Inimigos_Spritesheet_93: -2030539620
+      Mario_Inimigos_Spritesheet_90: 2143062699
+      Mario_Inimigos_Spritesheet_126: -380393335
+      Mario_Inimigos_Spritesheet_106: -1103600507
+      Mario_Inimigos_Spritesheet_35: 487449697
+      Mario_Inimigos_Spritesheet_114: 1240701992
+      Mario_Inimigos_Spritesheet_88: 886771940
+      Mario_Inimigos_Spritesheet_21: -2060763967
+      Mario_Inimigos_Spritesheet_97: -1416884424
+      Mario_Inimigos_Spritesheet_111: -328588470
+      Mario_Inimigos_Spritesheet_130: 2047620121
+      Mario_Inimigos_Spritesheet_147: 1953553303
+      Mario_Inimigos_Spritesheet_123: -2021778693
+      Mario_Inimigos_Spritesheet_127: 274072727
+      Mario_Inimigos_Spritesheet_27: -1759009506
+      Mario_Inimigos_Spritesheet_19: 722813772
+      Mario_Inimigos_Spritesheet_117: -1336742115
+      Mario_Inimigos_Spritesheet_76: 1914463822
+      Mario_Inimigos_Spritesheet_150: -668217302
+      Mario_Inimigos_Spritesheet_128: 343660084
+      Mario_Inimigos_Spritesheet_38: 1822634887
+      Mario_Inimigos_Spritesheet_41: -1937596889
+      Mario_Inimigos_Spritesheet_24: 1738409025
+      Mario_Inimigos_Spritesheet_132: -367332902
+      Mario_Inimigos_Spritesheet_20: 1595657489
+      Mario_Inimigos_Spritesheet_122: 831129291
+      Mario_Inimigos_Spritesheet_108: 510081029
+      Mario_Inimigos_Spritesheet_167: -1720268205
+      Mario_Inimigos_Spritesheet_164: 337081392
+      Mario_Inimigos_Spritesheet_9: 676632576
+      Mario_Inimigos_Spritesheet_72: 531242245
+      Mario_Inimigos_Spritesheet_170: 527945360
+      Mario_Inimigos_Spritesheet_63: 436046246
+      Mario_Inimigos_Spritesheet_124: 75476917
+      Mario_Inimigos_Spritesheet_57: -372624276
+      Mario_Inimigos_Spritesheet_3: 1247013647
+      Mario_Inimigos_Spritesheet_1: 1714783774
+      Mario_Inimigos_Spritesheet_105: 530863073
+      Mario_Inimigos_Spritesheet_23: 2041195976
+      Mario_Inimigos_Spritesheet_85: -607789673
+      Mario_Inimigos_Spritesheet_70: -717629876
+      Mario_Inimigos_Spritesheet_113: -1709172384
+      Mario_Inimigos_Spritesheet_121: -1855084744
+      Mario_Inimigos_Spritesheet_137: 1151274372
+      Mario_Inimigos_Spritesheet_102: -1261548206
+      Mario_Inimigos_Spritesheet_4: -198806975
+      Mario_Inimigos_Spritesheet_146: -1328569230
+      Mario_Inimigos_Spritesheet_81: -1558319541
+      Mario_Inimigos_Spritesheet_7: -468752634
+      Mario_Inimigos_Spritesheet_69: 1700199109
+      Mario_Inimigos_Spritesheet_135: 554118605
+      Mario_Inimigos_Spritesheet_154: -1867083867
+      Mario_Inimigos_Spritesheet_51: 41868139
+      Mario_Inimigos_Spritesheet_136: 1547201359
+      Mario_Inimigos_Spritesheet_54: -493376092
+      Mario_Inimigos_Spritesheet_101: -1140064032
+      Mario_Inimigos_Spritesheet_11: 1715397163
+      Mario_Inimigos_Spritesheet_148: -1310175173
+      Mario_Inimigos_Spritesheet_37: -831109336
+      Mario_Inimigos_Spritesheet_95: 139524984
+      Mario_Inimigos_Spritesheet_94: -1196651570
+      Mario_Inimigos_Spritesheet_166: -555768005
+      Fantasma_2: -1383799909
+      Mario_Inimigos_Spritesheet_67: 1895553369
+      Mario_Inimigos_Spritesheet_8: 1076089770
+      Mario_Inimigos_Spritesheet_14: -129736401
+      Mario_Inimigos_Spritesheet_163: 1090007080
+      Mario_Inimigos_Spritesheet_129: 2129612452
+      Mario_Inimigos_Spritesheet_18: 535062691
+      Mario_Inimigos_Spritesheet_17: -283063808
+      Mario_Inimigos_Spritesheet_53: -818767521
+      Mario_Inimigos_Spritesheet_118: -1066692729
+      Mario_Inimigos_Spritesheet_119: -305053097
+      Mario_Inimigos_Spritesheet_162: -1928235705
+      Mario_Inimigos_Spritesheet_89: 281716812
+      Mario_Inimigos_Spritesheet_58: 1355676171
+      Mario_Inimigos_Spritesheet_165: 955482045
+      Mario_Inimigos_Spritesheet_109: 462437663
+      Mario_Inimigos_Spritesheet_34: 1581631328
+      Mario_Inimigos_Spritesheet_15: -639784968
+      Mario_Inimigos_Spritesheet_64: -346588644
+      Mario_Inimigos_Spritesheet_43: -1594556635
+      Mario_Inimigos_Spritesheet_28: 1034380384
+      Mario_Inimigos_Spritesheet_144: -1786080874
+      Mario_Inimigos_Spritesheet_158: -1629428720
+      Mario_Inimigos_Spritesheet_98: -1203678723
+      Mario_Inimigos_Spritesheet_71: 1022821740
+      Mario_Inimigos_Spritesheet_33: 1096235526
+      Mario_Inimigos_Spritesheet_29: -697388986
+      Mario_Inimigos_Spritesheet_133: 961055215
+      Mario_Inimigos_Spritesheet_80: -79461652
+      Mario_Inimigos_Spritesheet_61: 1955069706
+      Mario_Inimigos_Spritesheet_151: -2071958724
+      Mario_Inimigos_Spritesheet_125: -1418990302
+      Mario_Inimigos_Spritesheet_157: -632813920
+      Mario_Inimigos_Spritesheet_138: -1547156034
+      Mario_Inimigos_Spritesheet_75: 1150795357
+      Mario_Inimigos_Spritesheet_50: -1049220725
+      Mario_Inimigos_Spritesheet_156: -276803789
+      Mario_Inimigos_Spritesheet_159: -12072155
+      Mario_Inimigos_Spritesheet_112: -1028193210
+      Mario_Inimigos_Spritesheet_36: -2021362236
+      Mario_Inimigos_Spritesheet_12: 2024302621
+      Mario_Inimigos_Spritesheet_153: -383103421
+      Mario_Inimigos_Spritesheet_87: -558684080
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
