@@ -13,6 +13,14 @@ public class Jogador : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        // Detectar a ação do jogador
+        if (Input.GetButtonDown("Jump")) {
+            Pular();
+        }
+    }
+
+    void Pular()
+    {
+        print("Pular!");
     }
 }
